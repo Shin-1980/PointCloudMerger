@@ -11,6 +11,7 @@ Although some applications offer auto-merge functions, it seems that they do not
 These scripts are designed for users who utilize [the app](https://github.com/Shin-1980/PointCloudGenerator) to store point cloud, 2D images, and [ARFrame](hppts://developer.apple.com/documentation/arkit/arframe).
 
 
+
 ## Methodology
 
 This approach is based on the fact that extracting features from two-dimensional images is easier than from three-dimensional models, as 2D images are denser and less noisy, whereas 3D models tend to be sparse and noisier.
