@@ -6,7 +6,7 @@ These scripts provide a function to automatically merge a point cloud with anoth
   <img src="README.assets/1.png" width=100%/>
 </p>
 
-Although some applications offer auto-merge functions, it does not cover the case that the shapes of the two models are physically different, which requires manual adjustment.
+Although some applications offer auto-merge functions, it seems that they do not cover the case that the shapes of the two models are physically different, which requires manual adjustment.
 
 These scripts are designed for users of [the app](https://github.com/Shin-1980/PointCloudGenerator) to capture trends in changing objects, such as plant growth.
 
@@ -24,7 +24,7 @@ This script uses the BFMatcher() function to match features between two images. 
 This script computes a set of three-dimensional coordinates by extracting and utilizing features from 2D images. Then, the transformation matrix is determined by minimizing the mean squared error between corresponding 3D points.
 
 <p align="center">
-  <img src="README.assets/2.png" width=100%/>
+  <img src="README.assets/3.png" width=100%/>
 </p>
 
 [![Plant Growth Trajectory](https://img.youtube.com/vi/wT877Pyf4zI/0.jpg)](https://www.youtube.com/watch?v=wT877Pyf4zI)
