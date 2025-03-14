@@ -8,7 +8,7 @@ These scripts provide a function to automatically merge a point cloud with anoth
 
 Although some applications offer auto-merge functions, it seems that they do not cover the case that the shapes of the two models are physically different, which requires manual adjustment.
 
-These scripts are designed for users of [the app](https://github.com/Shin-1980/PointCloudGenerator) to capture trends in changing objects, such as plant growth.
+These scripts are designed for users who utilize [the app](https://github.com/Shin-1980/PointCloudGenerator) to store 2D images, depth information, and [ARFrame](hppts://developer.apple.com/documentation/arkit/arframe).
 
 
 ## Methodology
